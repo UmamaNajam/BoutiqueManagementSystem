@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Account.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Attendance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Concession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Customer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Outlet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProductReport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Report.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shift.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Staff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StaffReport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Attendence.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Customers.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="FloorManagers.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="InventoryManagers.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Outlet.cpp.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Outlet.h.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="SalesAgents.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="StoreAdmins.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="StoreManagers.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="timings.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="OutletsList.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Account.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Attendance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Concession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Customer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Order.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Outlet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProductReport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Report.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shift.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Staff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StaffReport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
